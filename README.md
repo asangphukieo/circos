@@ -25,3 +25,5 @@ Rscript script.R --args vcf_snp_file="test_data/snp_gatk_mutect2.vcf" bedpe_SV_f
 6. DP_label2: minimum read depth threshold for highlighting snp in green color (default: 50)
 7. tumor_vcf_column: column in VCF file that contain tumor read depth information (default: 10) 
 8. out: output file name
+
+![Output_img](https://github.com/asangphukieo/circos/blob/main/test_data/screenshot.png)
