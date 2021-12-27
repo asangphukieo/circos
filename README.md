@@ -1,5 +1,5 @@
 # circos
-R script to make Circos figure
+R script to make Circos figure based on BioCircos package
 
 ## Usage
 ### create and activate circos in anaconda environment and install BioCircos via conda
